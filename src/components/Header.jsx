@@ -2,6 +2,7 @@ import React from 'react';
 import { useGSAP } from '@gsap/react';
 import gsap from 'gsap';
 import 'remixicon/fonts/remixicon.css';
+import { Link } from 'react-router-dom';
 
 const Header = () => {
   useGSAP(() => {
@@ -17,12 +18,13 @@ const Header = () => {
     <div className="fixed right-0 w-[15vw] h-full z-50 py-10 flex flex-col justify-between items-center bg-transparent">
       {/* Button Section */}
       <div className="flex items-center justify-center space-x-4">
-        <button className="bg-black text-white rounded-full px-6 py-2 border-4 text-[1.2vw] hover:bg-gray-700 transition duration-300 ease-in-out">
-          Hire me
-        </button>
+        <Link to="/Page9">
+          <button className="bg-black text-white rounded-full px-8 py-2 border-4 text-[1.2vw] hover:bg-gray-700 transition duration-300 ease-in-out">
+            Hire me
+          </button>
+        </Link>
         <i className="ri-more-2-line text-[1.5vw]"></i>
       </div>
-
 
       {/* Rotating Banner */}
       <div id="banner" className="flex flex-col items-center">

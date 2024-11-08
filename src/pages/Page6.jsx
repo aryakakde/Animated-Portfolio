@@ -74,97 +74,97 @@ const Page6 = () => {
         <div className='absolute bottom-[18vh] left-1/2 transform -translate-x-1/2 flex flex-wrap justify-center gap-5 w-11/12'>
           <a
             href="#_"
-            className="skill-btn flex items-center justify-center h-[7vh] px-14 py-3 mt-4 text-[2vw] font-semibold text-center text-gray-200 no-underline align-middle transition-all duration-300 ease-in-out bg-transparent border-2 border-yellow-300 border-solid rounded-full"
+            className="skill-btn flex items-center justify-center h-[7vh] px-14 py-5 mt-4 text-[2vw] font-semibold text-center text-gray-200 no-underline align-middle transition-all duration-300 ease-in-out bg-transparent border-2 border-yellow-300 border-solid rounded-full"
           >
             HTML
           </a>
           <a
             href="#_"
-            className="skill-btn flex items-center justify-center h-[7vh] px-14 py-3 mt-4 text-[2vw] font-semibold text-center text-gray-200 no-underline align-middle transition-all duration-300 ease-in-out bg-transparent border-2 border-green-300 border-solid rounded-full"
+            className="skill-btn flex items-center justify-center h-[7vh] px-14 py-5 mt-4 text-[2vw] font-semibold text-center text-gray-200 no-underline align-middle transition-all duration-300 ease-in-out bg-transparent border-2 border-green-300 border-solid rounded-full"
           >
             CSS
           </a>
           <a
             href="#_"
-            className="skill-btn flex items-center justify-center h-[7vh] px-14 py-3 mt-4 text-[2vw] font-semibold text-center text-gray-200 no-underline align-middle transition-all duration-300 ease-in-out bg-transparent border-2 border-pink-300 border-solid rounded-full"
+            className="skill-btn flex items-center justify-center h-[7vh] px-14 py-5 mt-4 text-[2vw] font-semibold text-center text-gray-200 no-underline align-middle transition-all duration-300 ease-in-out bg-transparent border-2 border-pink-300 border-solid rounded-full"
           >
             JavaScript
           </a>
           <a
             href="#_"
-            className="skill-btn flex items-center justify-center h-[7vh] px-14 py-3 mt-4 text-[2vw] font-semibold text-center text-gray-200 no-underline align-middle transition-all duration-300 ease-in-out bg-transparent border-2 border-blue-300 border-solid rounded-full"
+            className="skill-btn flex items-center justify-center h-[7vh] px-14 py-5 mt-4 text-[2vw] font-semibold text-center text-gray-200 no-underline align-middle transition-all duration-300 ease-in-out bg-transparent border-2 border-blue-300 border-solid rounded-full"
           >
             React.js
           </a>
           <a
             href="#_"
-            className="skill-btn flex items-center justify-center h-[7vh] px-14 py-3 mt-4 text-[2vw] font-semibold text-center text-gray-200 no-underline align-middle transition-all duration-300 ease-in-out bg-transparent border-2 border-gray-400 border-solid rounded-full"
+            className="skill-btn flex items-center justify-center h-[7vh] px-14 py-5 mt-4 text-[2vw] font-semibold text-center text-gray-200 no-underline align-middle transition-all duration-300 ease-in-out bg-transparent border-2 border-gray-400 border-solid rounded-full"
           >
             Bootstrap
           </a>
           <a
             href="#_"
-            className="skill-btn flex items-center justify-center h-[7vh] px-14 py-3 mt-4 text-[2vw] font-semibold text-center text-gray-200 no-underline align-middle transition-all duration-300 ease-in-out bg-transparent border-2 border-purple-300 border-solid rounded-full"
+            className="skill-btn flex items-center justify-center h-[7vh] px-14 py-5 mt-4 text-[2vw] font-semibold text-center text-gray-200 no-underline align-middle transition-all duration-300 ease-in-out bg-transparent border-2 border-purple-300 border-solid rounded-full"
           >
             Tailwind
           </a>
           <a
             href="#_"
-            className="skill-btn flex items-center justify-center h-[7vh] px-14 py-3 mt-4 text-[2vw] font-semibold text-center text-gray-200 no-underline align-middle transition-all duration-300 ease-in-out bg-transparent border-2 border-orange-300 border-solid rounded-full"
+            className="skill-btn flex items-center justify-center h-[7vh] px-14 py-5 mt-4 text-[2vw] font-semibold text-center text-gray-200 no-underline align-middle transition-all duration-300 ease-in-out bg-transparent border-2 border-orange-300 border-solid rounded-full"
           >
             GSAP
           </a>
           <a
             href="#_"
-            className="skill-btn flex items-center justify-center h-[7vh] px-14 py-3 mt-4 text-[2vw] font-semibold text-center text-gray-200 no-underline align-middle transition-all duration-300 ease-in-out bg-transparent border-2 border-red-300 border-solid rounded-full"
+            className="skill-btn flex items-center justify-center h-[7vh] px-14 py-5 mt-4 text-[2vw] font-semibold text-center text-gray-200 no-underline align-middle transition-all duration-300 ease-in-out bg-transparent border-2 border-red-300 border-solid rounded-full"
           >
             Git
           </a>
           <a
             href="#_"
-            className="skill-btn flex items-center justify-center h-[7vh] px-14 py-3 mt-4 text-[2vw] font-semibold text-center text-gray-200 no-underline align-middle transition-all duration-300 ease-in-out bg-transparent border-2 border-lime-300 border-solid rounded-full"
+            className="skill-btn flex items-center justify-center h-[7vh] px-14 py-5 mt-4 text-[2vw] font-semibold text-center text-gray-200 no-underline align-middle transition-all duration-300 ease-in-out bg-transparent border-2 border-lime-300 border-solid rounded-full"
           >
             GitHub
           </a>
           <a
             href="#_"
-            className="skill-btn flex items-center justify-center h-[7vh] px-14 py-3 mt-4 text-[2vw] font-semibold text-center text-gray-200 no-underline align-middle transition-all duration-300 ease-in-out bg-transparent border-2 border-emerald-300 border-solid rounded-full"
+            className="skill-btn flex items-center justify-center h-[7vh] px-14 py-5 mt-4 text-[2vw] font-semibold text-center text-gray-200 no-underline align-middle transition-all duration-300 ease-in-out bg-transparent border-2 border-emerald-300 border-solid rounded-full"
           >
             ChatGPT
           </a>
           <a
             href="#_"
-            className="skill-btn flex items-center justify-center h-[7vh] px-14 py-3 mt-4 text-[2vw] font-semibold text-center text-gray-200 no-underline align-middle transition-all duration-300 ease-in-out bg-transparent border-2 border-teal-300 border-solid rounded-full"
+            className="skill-btn flex items-center justify-center h-[7vh] px-14 py-5 mt-4 text-[2vw] font-semibold text-center text-gray-200 no-underline align-middle transition-all duration-300 ease-in-out bg-transparent border-2 border-teal-300 border-solid rounded-full"
           >
             Typing
           </a>
           <a
             href="#_"
-            className="skill-btn flex items-center justify-center h-[7vh] px-14 py-3 mt-4 text-[2vw] font-semibold text-center text-gray-200 no-underline align-middle transition-all duration-300 ease-in-out bg-transparent border-2 border-cyan-300 border-solid rounded-full"
+            className="skill-btn flex items-center justify-center h-[7vh] px-14 py-5 mt-4 text-[2vw] font-semibold text-center text-gray-200 no-underline align-middle transition-all duration-300 ease-in-out bg-transparent border-2 border-cyan-300 border-solid rounded-full"
           >
             Client Collaboration
           </a>
           <a
             href="#_"
-            className="skill-btn flex items-center justify-center h-[7vh] px-14 py-3 mt-4 text-[2vw] font-semibold text-center text-gray-200 no-underline align-middle transition-all duration-300 ease-in-out bg-transparent border-2 border-rose-300 border-solid rounded-full"
+            className="skill-btn flex items-center justify-center h-[7vh] px-14 py-5 mt-4 text-[2vw] font-semibold text-center text-gray-200 no-underline align-middle transition-all duration-300 ease-in-out bg-transparent border-2 border-rose-300 border-solid rounded-full"
           >
             Team Communication
           </a>
           <a
             href="#_"
-            className="skill-btn flex items-center justify-center h-[7vh] px-14 py-3 mt-4 text-[2vw] font-semibold text-center text-gray-200 no-underline align-middle transition-all duration-300 ease-in-out bg-transparent border-2 border-fuchsia-300 border-solid rounded-full"
+            className="skill-btn flex items-center justify-center h-[7vh] px-14 py-5 mt-4 text-[2vw] font-semibold text-center text-gray-200 no-underline align-middle transition-all duration-300 ease-in-out bg-transparent border-2 border-fuchsia-300 border-solid rounded-full"
           >
             Problem-Solving
           </a>
           <a
             href="#_"
-            className="skill-btn flex items-center justify-center h-[7vh] px-14 py-3 mt-4 text-[2vw] font-semibold text-center text-gray-200 no-underline align-middle transition-all duration-300 ease-in-out bg-transparent border-2 border-violet-300 border-solid rounded-full"
+            className="skill-btn flex items-center justify-center h-[7vh] px-14 py-5 mt-4 text-[2vw] font-semibold text-center text-gray-200 no-underline align-middle transition-all duration-300 ease-in-out bg-transparent border-2 border-violet-300 border-solid rounded-full"
           >
             Responsive Web Design
           </a>
           <a
             href="#_"
-            className="skill-btn flex items-center justify-center h-[7vh] px-14 py-3 mt-4 text-[2vw] font-semibold text-center text-gray-200 no-underline align-middle transition-all duration-300 ease-in-out bg-transparent border-2 border-sky-300 border-solid rounded-full"
+            className="skill-btn flex items-center justify-center h-[7vh] px-14 py-5 mt-4 text-[2vw] font-semibold text-center text-gray-200 no-underline align-middle transition-all duration-300 ease-in-out bg-transparent border-2 border-sky-300 border-solid rounded-full"
           >
             API Integration
           </a>

@@ -64,7 +64,7 @@ const Page2 = () => {
         <div className="rotate-text" ref={(el) => (sectionsRef.current[6] = el)}>
           <h3 className="text-[42vw] text-black font-[anzo4] leading-[35vw]">DREAMS!</h3>
         </div>
-        <div className="h-1 w-2/3 relative left-1/2 -translate-x-1/2 mt-40 bg-black"></div>
+        <div className="h-1 w-2/3 relative left-1/2 -translate-x-1/2 mt-20 bg-black"></div>
       </div>
     </>
   );

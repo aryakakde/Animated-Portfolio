@@ -25,7 +25,14 @@ const Page8 = () => {
   return (
 
     <div className="h-full p-10 bg-white relative flex">
-      <div className="h-full w-full bg-black rounded-[50px] overflow-hidden flex">
+      <div className="h-full w-full bg-black rounded-[50px] overflow-hidden flex"
+      // style={{
+      //   backgroundImage: "url('https://static.wixstatic.com/media/f1c650_1baf8f9dcad444669565ec73ee697a92~mv2.jpg/v1/fill/w_1881,h_843,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Background%20Anzo_Studio.jpg')",
+      //   backgroundSize: "cover", // Adjusts the image to cover the entire div
+      //   backgroundPosition: "center", // Centers the image
+      //   backgroundRepeat: "no-repeat", // Prevents the image from repeating
+      // }}
+      >
         {/* Video Section */}
         <video
           autoPlay
@@ -54,7 +61,7 @@ const Page8 = () => {
               Storage.
             </h3>
           </div>
-          <hr className="scrolltext mb-2 text-[rgba(255,254,254,0.13)]" />
+          <hr className="scrolltext mb-2 mr-6 text-[rgba(255,254,254,0.13)]" />
           <div>
             <h2 className="scrolltext text-xl text-[rgba(255,254,254,0.13)]">
               2) Real-Time School Management System
@@ -68,7 +75,7 @@ const Page8 = () => {
               Technologies Used: HTML, CSS, JavaScript, Bootstrap.
             </h3>
           </div>
-          <hr className="scrolltext mb-2 mt-2 text-[rgba(255,254,254,0.13)]" />
+          <hr className="scrolltext mb-2 mt-2 mr-6 text-[rgba(255,254,254,0.13)]" />
           <div>
             <h2 className="scrolltext text-xl text-[rgba(255,254,254,0.13)]">
               3) Animated Portfolio

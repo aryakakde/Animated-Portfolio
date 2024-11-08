@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faLinkedin, faGithub } from "@fortawesome/free-brands-svg-icons";
 import { faEnvelope, faPhone } from "@fortawesome/free-solid-svg-icons";
 
-const Page9 = () => {
+const Page11 = () => {
   return (
     <>
       {/* Wrapper for Page7 content with overflow-hidden */}
@@ -66,4 +66,4 @@ const Page9 = () => {
   );
 };
 
-export default Page9;
+export default Page11;

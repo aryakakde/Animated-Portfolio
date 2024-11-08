@@ -23,11 +23,11 @@
   src: url(./assets/file5.woff2);
 }
 @font-face {
-  font-family: alag anzo1;
+  font-family: alag-anzo1;
   src: url(./assets/madefor-text.var.original.woff2);
 }
 @font-face {
-  font-family: alag anzo2;
+  font-family: alag-anzo2;
   src: url(./assets/pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2);
 }
 *{
