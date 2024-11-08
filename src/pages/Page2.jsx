@@ -19,8 +19,8 @@ const Page2 = () => {
           ease: 'power3.out',
           scrollTrigger: {
             trigger: section,
-            start: 'top 90%',
-            end: 'top 60%',
+            start: 'top 70%',
+            end: 'top 40%',
             toggleActions: 'play none none reverse',
             // markers:true
           },
@@ -40,9 +40,8 @@ const Page2 = () => {
   }, []);
   return (
     <>
-      <div id="section2" className="bg-white text-center p-32 text-black">
-        
-        <div className="rotate-text mt-5" ref={(el) => (sectionsRef.current[0] = el)}>
+      <div id="section2" className="bg-white text-center p-2 text-black">
+        <div className="rotate-text mt-5 pt-32" ref={(el) => (sectionsRef.current[0] = el)}>
           <h3 className="text-[42vw] text-black font-[anzo4] leading-[35vw]">IMPACTFUL</h3>
         </div>
         <div className="rotate-text" ref={(el) => (sectionsRef.current[1] = el)}>

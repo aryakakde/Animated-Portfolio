@@ -42,8 +42,8 @@ const Page2 = () => {
 
   return (
     <>
-      <div id="section2" className="bg-white text-center p-32 text-black">
-        <div className="rotate-text mt-4" ref={(el) => (sectionsRef.current[0] = el)}>
+      <div id="section2" className="bg-white text-center p-2 text-black">
+        <div className="rotate-text mt-5 pt-32" ref={(el) => (sectionsRef.current[0] = el)}>
           <h3 className="text-[42vw] text-black font-[anzo4] leading-[35vw]">HELPING</h3>
         </div>
         <div className="rotate-text" ref={(el) => (sectionsRef.current[1] = el)}>

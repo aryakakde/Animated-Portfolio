@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react';
 import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
+import moonVideo from "../assets/moon.mp4";
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -59,13 +60,13 @@ const Page4 = () => {
   return (
     <div className="h-screen p-4 bg-white relative">
       <div className="h-full w-full bg-black rounded-[50px] overflow-hidden">
-        <video
-          autoPlay
-          loop
-          muted
-          className="w-full object-cover"
-          src="/src/assets/moon.mp4"
-        ></video>
+      <video
+        autoPlay
+        loop
+        muted
+        className="w-full object-cover"
+        src={moonVideo}
+      ></video>
 
         {/* right div  */}
         <div>
